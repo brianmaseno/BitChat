@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501565424802",
+    "project_id": "bitchat1",
+    "storage_bucket": "bitchat1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501565424802:android:479506434b52a5225c83fb",
+        "android_client_info": {
+          "package_name": "com.example.bitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501565424802-un8irmf57h9clqdg2eqb50ftu6ni3jo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP7xAWJIL6l0JKQalrht6omk3u1rDVCo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501565424802-un8irmf57h9clqdg2eqb50ftu6ni3jo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
